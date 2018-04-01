@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://pyjack.github.io/"/>
-  <updated>2018-03-31T12:11:54.774Z</updated>
+  <updated>2018-04-01T09:14:47.371Z</updated>
   <id>https://pyjack.github.io/</id>
   
   <author>
@@ -15,6 +15,30 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>测试七牛云图床</title>
+    <link href="https://pyjack.github.io/2018/04/01/%E6%B5%8B%E8%AF%95%E4%B8%83%E7%89%9B%E4%BA%91%E5%9B%BE%E5%BA%8A/"/>
+    <id>https://pyjack.github.io/2018/04/01/测试七牛云图床/</id>
+    <published>2018-04-01T09:11:32.000Z</published>
+    <updated>2018-04-01T09:14:47.371Z</updated>
+    
+    <content type="html"><![CDATA[<p> <img src="http://www.dorank.me/image/180401/53Ad234hG3.png" alt=""></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt; &lt;img src=&quot;http://www.dorank.me/image/180401/53Ad234hG3.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+      <category term="图床" scheme="https://pyjack.github.io/tags/%E5%9B%BE%E5%BA%8A/"/>
+    
+  </entry>
   
   <entry>
     <title>20180331201107</title>
