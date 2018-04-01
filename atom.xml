@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://pyjack.github.io/"/>
-  <updated>2018-04-01T09:14:47.371Z</updated>
+  <updated>2018-04-01T10:14:00.518Z</updated>
   <id>https://pyjack.github.io/</id>
   
   <author>
@@ -17,11 +17,33 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>如何使用 hexo 搭建一个博客</title>
+    <link href="https://pyjack.github.io/post/tw/How-to-use-hexo-to-set-up-blog.html"/>
+    <id>https://pyjack.github.io/post/tw/How-to-use-hexo-to-set-up-blog.html</id>
+    <published>2018-04-01T10:11:05.000Z</published>
+    <updated>2018-04-01T10:14:00.518Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="测试"><a href="#测试" class="headerlink" title="测试"></a>测试</h2><p>正在进行自定义链接的测试和国际化测试</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h2 id=&quot;测试&quot;&gt;&lt;a href=&quot;#测试&quot; class=&quot;headerlink&quot; title=&quot;测试&quot;&gt;&lt;/a&gt;测试&lt;/h2&gt;&lt;p&gt;正在进行自定义链接的测试和国际化测试&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
     <title>测试七牛云图床</title>
-    <link href="https://pyjack.github.io/2018/04/01/%E6%B5%8B%E8%AF%95%E4%B8%83%E7%89%9B%E4%BA%91%E5%9B%BE%E5%BA%8A/"/>
-    <id>https://pyjack.github.io/2018/04/01/测试七牛云图床/</id>
+    <link href="https://pyjack.github.io/post/undefined/Qiniu-Cloud-Image-Hosting-testing.html"/>
+    <id>https://pyjack.github.io/post/undefined/Qiniu-Cloud-Image-Hosting-testing.html</id>
     <published>2018-04-01T09:11:32.000Z</published>
-    <updated>2018-04-01T09:14:47.371Z</updated>
+    <updated>2018-04-01T09:48:16.033Z</updated>
     
     <content type="html"><![CDATA[<p> <img src="http://www.dorank.me/image/180401/53Ad234hG3.png" alt=""></p>]]></content>
     
@@ -41,53 +63,9 @@
   </entry>
   
   <entry>
-    <title>20180331201107</title>
-    <link href="https://pyjack.github.io/2018/03/31/20180331201107/"/>
-    <id>https://pyjack.github.io/2018/03/31/20180331201107/</id>
-    <published>2018-03-31T12:11:07.000Z</published>
-    <updated>2018-03-31T12:11:54.774Z</updated>
-    
-    <content type="html"><![CDATA[<p><img src="/20180331201107/7s90007qpp6r7rr8q28.jpg" alt=""></p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;&lt;img src=&quot;/20180331201107/7s90007qpp6r7rr8q28.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-
-      
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>腾讯图床测试失败</title>
-    <link href="https://pyjack.github.io/2018/03/31/%E8%85%BE%E8%AE%AF%E5%9B%BE%E5%BA%8A%E6%B5%8B%E8%AF%95%E5%A4%B1%E8%B4%A5/"/>
-    <id>https://pyjack.github.io/2018/03/31/腾讯图床测试失败/</id>
-    <published>2018-03-31T11:35:34.000Z</published>
-    <updated>2018-03-31T11:50:51.423Z</updated>
-    
-    <content type="html"><![CDATA[<p><img src="/20180331193534/7s90007qpp6r7rr8q28.jpg" alt=""></p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;&lt;img src=&quot;/20180331193534/7s90007qpp6r7rr8q28.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-
-      
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
     <title>Hello World</title>
-    <link href="https://pyjack.github.io/2018/03/31/hello-world/"/>
-    <id>https://pyjack.github.io/2018/03/31/hello-world/</id>
+    <link href="https://pyjack.github.io/post/undefined/undefined.html"/>
+    <id>https://pyjack.github.io/post/undefined/undefined.html</id>
     <published>2018-03-31T07:55:48.166Z</published>
     <updated>2018-03-31T06:56:01.719Z</updated>
     
