@@ -1,4 +1,2 @@
-https://pyjack.github.io/post/zh/one-test-article.html
-https://pyjack.github.io/post/tw/How-to-use-hexo-to-set-up-blog.html
-https://pyjack.github.io/post/tw/Qiniu-Cloud-Image-Hosting-testing.html
-https://pyjack.github.io/post/zh/Hello World.html
+https://pyjack.github.io/post/zh/Java-Basis-of-string.html
+https://pyjack.github.io/post/zh/Hello-World.html
